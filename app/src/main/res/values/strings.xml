@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">dicodingsubmaman Book</string>
+    <string name="judul_buku">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="profile">Profile</string>
+    <string name="lukmanul160_gmail_com">Lukmanul160@gmail.com</string>
+    <string name="lukmanul_hakim">Lukmanul Hakim</string>
+    <string name="baru_belajar_android_dan_ingin_menjadi_yang_tebaik_dan_terus_mencoba_dan_coba">baru belajar android dan ingin menjadi yang tebaik dan terus mencoba dan coba</string>
+    <string name="isi_bacaan">Isi bacaan</string>
+    <string name="keterangan_buku">Keterangan Buku</string>
+    <string name="judul">Judul :</string>
+    <string name="title_judulnya">title judulnya</string>
+    <string name="penjelasan">Penjelasan :</string>
+    <string name="deskripsi_buku">Deskripsi buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="tahun">Tahun</string>
+</resources>
